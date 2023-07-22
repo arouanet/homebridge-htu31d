@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-htu31d",
+  "displayName": "Homebridge HTU31D",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for the HTU31D humidity and temperature sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arouanet/homebridge-htu31d.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Arnaud Rouanet <arnaud@rouanet.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arouanet/homebridge-htu31d/issues"
+  },
+  "homepage": "https://github.com/arouanet/homebridge-htu31d#readme"
+}
