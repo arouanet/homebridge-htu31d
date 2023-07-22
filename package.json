@@ -23,10 +23,12 @@
   },
   "homepage": "https://github.com/arouanet/homebridge-htu31d#readme",
   "engines": {
-    "node": "^18.17.0"
+    "node": "^18.17.0",
+    "homebridge": "^1.6.0"
   },
   "devDependencies": {
     "@types/node": "^18.16.20",
+    "homebridge": "^1.6.0",
     "typescript": "^4.9.5"
   }
 }
